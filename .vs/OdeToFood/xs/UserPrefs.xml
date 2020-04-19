@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{2BDA6D5A-C1CD-4817-A6BA-57E5370B481D}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood.Core/Restaurant.cs">
+    <Files>
+      <File FileName="OdeToFood/Pages/Restaurants/Edit.cshtml.cs" Line="46" Column="1" />
+      <File FileName="OdeToFood.Core/Restaurant.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdeToFood" expanded="True">
+            <Node name="OdeToFood" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Restaurants" expanded="True">
+                  <Node name="Edit.cshtml" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="OdeToFood.Core" expanded="True">
+              <Node name="Restaurant.cs" selected="True" />
+            </Node>
+            <Node name="OdeToFood.Data" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

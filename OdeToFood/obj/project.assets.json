@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OdeToFood.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/OdeToFood.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OdeToFood.Core.dll": {}
+        }
+      },
+      "OdeToFood.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "OdeToFood.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OdeToFood.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OdeToFood.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OdeToFood.Core/1.0.0": {
+      "type": "project",
+      "path": "../OdeToFood.Core/OdeToFood.Core.csproj",
+      "msbuildProject": "../OdeToFood.Core/OdeToFood.Core.csproj"
+    },
+    "OdeToFood.Data/1.0.0": {
+      "type": "project",
+      "path": "../OdeToFood.Data/OdeToFood.Data.csproj",
+      "msbuildProject": "../OdeToFood.Data/OdeToFood.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "OdeToFood.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/linton/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/linton/projects/c/OdeToFood/OdeToFood/OdeToFood.csproj",
+      "projectName": "OdeToFood",
+      "projectPath": "/Users/linton/projects/c/OdeToFood/OdeToFood/OdeToFood.csproj",
+      "packagesPath": "/Users/linton/.nuget/packages/",
+      "outputPath": "/Users/linton/projects/c/OdeToFood/OdeToFood/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/linton/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/Users/linton/projects/c/OdeToFood/OdeToFood.Data/OdeToFood.Data.csproj": {
+              "projectPath": "/Users/linton/projects/c/OdeToFood/OdeToFood.Data/OdeToFood.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

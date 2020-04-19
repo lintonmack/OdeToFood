@@ -9,3 +9,14 @@
 /Users/linton/projects/c/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.csproj.CopyComplete
 /Users/linton/projects/c/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.dll
 /Users/linton/projects/c/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.pdb
+C:\Code\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.deps.json
+C:\Code\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.dll
+C:\Code\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.pdb
+C:\Code\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Core.dll
+C:\Code\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Core.pdb
+C:\Code\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Code\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Code\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Code\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.csproj.CopyComplete
+C:\Code\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.dll
+C:\Code\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.pdb

@@ -6,3 +6,12 @@
 /Users/linton/projects/c/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.0/OdeToFood.Core.AssemblyInfo.cs
 /Users/linton/projects/c/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.0/OdeToFood.Core.dll
 /Users/linton/projects/c/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.0/OdeToFood.Core.pdb
+C:\Code\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.0\OdeToFood.Core.deps.json
+C:\Code\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.0\OdeToFood.Core.dll
+C:\Code\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.0\OdeToFood.Core.pdb
+C:\Code\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.0\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Code\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Code\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Code\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Code\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.0\OdeToFood.Core.dll
+C:\Code\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.0\OdeToFood.Core.pdb
